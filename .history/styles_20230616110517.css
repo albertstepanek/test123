@@ -1,0 +1,35 @@
+ul {
+  list-style-type: none;
+  margin-left: 40vw;
+  padding: 0;
+  display: flex;
+  justify-content: right;
+}
+.navimg {
+  width: 10%;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navitem {
+  text-decoration: none;
+
+  margin: 5px;
+}
+.navbutton {
+  width: 10vw;
+  background-color: #ff4800;
+  color: white;
+  border: none;
+}
+.vector {
+  margin-right: 10px;
+}
+.par {
+
+    font-size: 4rem;
+}
+body {
+}

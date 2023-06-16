@@ -1,0 +1,33 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+    
+  }
+  .navimg {
+    width: 10%;
+  }
+ .nav {
+       display: flex;
+       justify-content: space-between;
+    }
+
+    .navitem {
+
+    margin: 5px;
+    }
+    .navbutton {
+        
+        width: 10vw;
+        background-color: #FF4800 ;
+        color: white; 
+        border: none;      
+    }
+    .vector {
+        margin-right: 10px;
+    }
+
+    body{
+margin: 0;    }
