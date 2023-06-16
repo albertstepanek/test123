@@ -45,9 +45,9 @@ margin: 20px;
 }
 .button {
     width: 10vw;
-    height: 8vh;
+    height: 5vh;
     border-radius: 10px;
-    background-color: #4E4E91    ;
+    background-color: #ff4800;
     color: white;
     border: none;
 }

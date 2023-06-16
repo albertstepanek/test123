@@ -38,16 +38,8 @@ justify-content: space-between ;
 margin: 20px;
 }
 .input {
-  width: 20vw;
+  width: 30vw;
   height: 5vh;
   border-radius: 10px;
   padding: 10px;
-}
-.button {
-    width: 10vw;
-    height: 8vh;
-    border-radius: 10px;
-    background-color: #4E4E91    ;
-    color: white;
-    border: none;
 }
